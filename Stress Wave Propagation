@@ -1,0 +1,10 @@
+A small tutorial analyzes Stress Wave Propagation in a single-layer graphene sheet under fullerene projectile impact. 
+The AIREBO potential is used in molecular dynamics software (LAMMPS) for atomic interactions. The projectile was assigned
+a velocity of 3.6 km/s and hit in the middle of a fixed graphene sheet. 
+The stress wave propagation in terms of planner stress is presented in the video.
+
+To know more about the LAMMPS scripts and MATLAB codes, check out my GitHub repository () and youtube channel
+
+This tutorial can be helpful to graduate students who are new to molecular dynamics.
+
+Thank you.....
